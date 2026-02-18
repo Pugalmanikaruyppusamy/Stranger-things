@@ -1,6 +1,6 @@
 .hero {
     height: 100vh;
-    background-image: url('./images/will.jpeg');
+    background-image: url('./images/Will Byers.jpeg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -12,7 +12,7 @@
     background-position: 40% 7% !important;
     position: absolute;
     inset: 0;
-    background-image: url('./images/vecna.jpeg');
+    background-image: url('./images/Vecna stranger things_.jpeg');
     background-size: cover;
     background-position: center;
     pointer-events: none;
@@ -96,4 +96,5 @@ text-shadow:
     0 0 20px red;
       }
       
+
       
